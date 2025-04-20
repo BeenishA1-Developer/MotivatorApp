@@ -12,7 +12,9 @@ A simple app to display motivational quotes using Jetpack Compose and Room DB.
 - **Room DB**: Database to store quotes locally.
 
 ## Screenshots
-(You can add screenshots of the app here for a better understanding of the UI)
+
+### Home Screen
+![Home Screen](https://github.com/BeenishA1-Developer/MotivatorApp/blob/main/QuotoDB1.png?raw=true)
 
 ## Installation
 1. Clone the repository:
